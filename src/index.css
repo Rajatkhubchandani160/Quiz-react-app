@@ -83,3 +83,20 @@ p{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 900;
 }
+
+@media (max-width:600px) {
+  #base-container{
+      width: 350px;
+      height: 400px;
+      margin-top: 30px;
+  }
+}
+
+@media (max-width:400px) {
+  #base-container{
+      width: 200px;
+      height: 400px;
+      margin-top: 30px;
+  }
+  
+}

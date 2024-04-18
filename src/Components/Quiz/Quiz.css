@@ -1,5 +1,5 @@
 .container{
-    width: 480px;
+    width: 500px;
     margin: auto;
     border: 2px solid black;
     margin-top: 20px;
@@ -76,4 +76,35 @@
     font-weight: 400;
     color: #f69d3c;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@media (max-width:600px) {
+    .container{
+        width: 400px;
+        height: 540px;
+    }
+    .container h1{
+        text-align: center;
+        font-size: 45px;
+        color: rgb(18, 17, 17);
+        letter-spacing: 3px;
+        font-weight: 900;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding-bottom: 2px;
+    }
+}
+
+@media (max-width:600px) {
+    .container{
+        width: 330px;
+        height: 580px;
+    }
+    .container ul li{
+        font-size: 2.6vw;
+    }
+    .container h2{
+        font-size: 4vw;
+    }
+    .container button{
+        font-size: 4vw;
+    }
 }
