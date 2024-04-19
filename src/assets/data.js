@@ -49,4 +49,20 @@ export const data=[
         option4:"Minecraft",
         ans:2,
     },
+    {
+        question:"Which is the most Popular gun skin in bgmi ?",
+        option1:"flamewarth M416",
+        option2:"deadly Precision M762",
+        option3:"Glacier m416",
+        option4:"ryomen sukuna groza",
+        ans:3
+    },
+    {
+        question:"How much uc you have to spend to by pubg royal pass ?",
+        option1:"400uc",
+        option2:"999uc",
+        option3:"620uc",
+        option4:"600uc",
+        ans:4
+    }
 ]
