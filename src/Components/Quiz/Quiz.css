@@ -95,7 +95,7 @@
 
 @media (max-width:400px) {
     .container{
-        width: 330px;
+        width: 200px;
         height: 580px;
     }
     .container ul li{
