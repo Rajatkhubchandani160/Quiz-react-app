@@ -98,9 +98,32 @@ p{
       margin-top: 30px;
   }
   #base-container h3{
-    font-size: 4.3vw;
+    margin-top: 1px;
+    text-align: center;
+    height: 5vw;
   }
-  #base-conatainer h4{
+  .box{
+    margin-top: 10px;
+  }
+  #base-container h4{
+    text-align: center;
+    font-size: 3.8vw;
+  }
+  #buttons{
+    margin-top: 3px;
+    display: flex;
+    font-size: 4vw;
+    align-items: flex-end;
+  }
+  h5{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 3.5vw;
+    
+  }
+  p{
+    text-align: center;
+    margin-top: 2px;
     font-size: 3vw;
   }
 }
