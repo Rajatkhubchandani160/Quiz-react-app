@@ -101,13 +101,7 @@
     .container ul li{
         font-size: 2.6vw;
     }
-    .container h2{
-    font-size: 4.2vw;
-    font-weight: 700;
-    display: flex;
-    flex-wrap: wrap;
-    text-transform: capitalize;
-}
+    
     .container button{
         font-size: 4vw;
     }
