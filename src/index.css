@@ -48,7 +48,6 @@ button{
   border-radius: 50%;
 }
 #base-container h3{
-
   text-align: center;
   margin-top: 5px;
   font-size: 30px;
@@ -98,5 +97,10 @@ p{
       height: 400px;
       margin-top: 30px;
   }
-  
+  #base-container h3{
+    font-size: 4.3vw;
+  }
+  #base-conatainer h4{
+    font-size: 3vw;
+  }
 }
