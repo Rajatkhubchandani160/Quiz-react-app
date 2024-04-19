@@ -95,25 +95,5 @@ p{
   #base-container{
       width: 200px;
       height: 450px;
-      margin-top: 30px;
   }
-  #base-container h3{
-    margin-top: 5px;
-    text-align: center;
-    height: 5vw;
-  }
-  .box{
-    margin-top: 20px;
-  }
-  #base-container h4{
-    text-align: center;
-    font-size: 3.8vw;
-  }
-  #buttons{
-    margin-top: 3px;
-    display: flex;
-    font-size: 4vw;
-    align-items: center;
-  }
-
 }
