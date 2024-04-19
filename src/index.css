@@ -94,16 +94,16 @@ p{
 @media (max-width:400px) {
   #base-container{
       width: 200px;
-      height: 400px;
+      height: 450px;
       margin-top: 30px;
   }
   #base-container h3{
-    margin-top: 1px;
+    margin-top: 5px;
     text-align: center;
     height: 5vw;
   }
   .box{
-    margin-top: 10px;
+    margin-top: 20px;
   }
   #base-container h4{
     text-align: center;
@@ -113,17 +113,7 @@ p{
     margin-top: 3px;
     display: flex;
     font-size: 4vw;
-    align-items: flex-end;
+    align-items: center;
   }
-  h5{
-    text-align: center;
-    margin-top: 10px;
-    font-size: 3.5vw;
-    
-  }
-  p{
-    text-align: center;
-    margin-top: 2px;
-    font-size: 3vw;
-  }
+
 }
